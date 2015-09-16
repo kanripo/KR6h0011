@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 虛空藏菩薩神經
+#+DATE: 2015-08-30 20:06:24.913077
+#+PROPERTY: JUAN 0
